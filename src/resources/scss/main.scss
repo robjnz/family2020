@@ -1,0 +1,14 @@
+/*! purgecss start ignore */
+@tailwind base;
+/*! purgecss end ignore */
+
+@import 'base/all';
+
+@tailwind components;
+
+@import 'components/all';
+
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=Roboto:wght@500&family=Syne+Tactile&display=swap');
+
