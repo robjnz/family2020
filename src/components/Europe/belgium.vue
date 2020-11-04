@@ -27,13 +27,14 @@
         </g-link>
 
         <br />
+        <!--
 
         <g-link
           class  = "text-white hover:text-yellow-500"
           to     = "/Jewish/belarus">
           Jewish
         </g-link>
-      
+      -->
       </li>
       </ul>
 

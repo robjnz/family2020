@@ -23,7 +23,9 @@
         <br />
       </div>
     </div>
+    <!--
 <p> <g-link class="text-red-600 hover:text-yellow-600" to="/Jewish/belgium">Belgium Jewish</g-link></p>
+-->
     <p>
       Add
       <g-link
