@@ -28,7 +28,7 @@
 
     </div>
     
-<p> <g-link class="text-red-600 hover:text-yellow-600" to="/Europe/netherlandsgeneral">Nevelands</g-link></p>
+<p> <g-link class="text-red-600 hover:text-yellow-600" to="/Europe/netherlandsgeneral">Netherlands</g-link></p>
 
     <p>
       Add

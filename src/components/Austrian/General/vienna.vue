@@ -8,7 +8,7 @@
         <g-image 
           class = "h-32 w-full object-fill"
           src   = "@/images/europe/viennaparlament.jpg"
-          alt = "austria flag"
+          alt = "vienna parlement photo"
       />
        <br />
       <p>Vienna Archives</p>

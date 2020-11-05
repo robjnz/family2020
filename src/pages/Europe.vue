@@ -17,7 +17,7 @@
       </div>
 
       <div class="grid sm:flex">
-        <netherlands />
+        <ireland />
         <netherlands />
         <netherlands />
       </div>
@@ -33,6 +33,7 @@
 import austria from "@/components/Europe/austria";
 import belarus from "@/components/Europe/belarus";
 import belgium from "@/components/Europe/belgium";
+import ireland from "@/components/Europe/ireland";
 import netherlands from "@/components/Europe/netherlands";
 
 
@@ -58,6 +59,7 @@ export default {
     austria,
     belarus,
     belgium,
+    ireland,
     netherlands,
     
   },
