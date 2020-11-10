@@ -18,7 +18,8 @@
       <li>Currency:  Euro</li>
       <li>Population: 4.904 million <br />in 2019</li><br />
       <li>Religion:<br />Catholic 78%<br /> Church of Ireland 3%<br />Islam 1.3%<br /></li>
-      <br />
+      <br /><br /><br /><br />
+
       <li>Genealogy Resourses:<br />
       <g-link
           class  = "text-white hover:text-yellow-500"
