@@ -22,6 +22,12 @@
         <russia />
       </div>
 
+      <div class="grid sm:flex">
+         <ukraine />
+        <britain />
+       
+      </div>
+
      
     </div>
     <br />
@@ -36,6 +42,8 @@ import belgium from "@/components/Belgium/belgium";
 import ireland from "@/components/Ireland/ireland";
 import netherlands from "@/components/Netherlands/netherlands";
 import russia from "@/components/Russia/russia";
+import ukraine from "@/components/Ukraine/ukraine";
+import britain from "@/components/UK/britain";
 
 
 
@@ -63,6 +71,8 @@ export default {
     ireland,
     netherlands,
     russia,
+    ukraine,
+    britain,
     
   },
 };

@@ -1,6 +1,6 @@
 ---
 id: author1
-name: Troes retardat
+name: family-history.tips
 facebook: https://www.facebook.com
 twitter: https://www.twitter.com
 linkedin: https://www.linkedin.com
