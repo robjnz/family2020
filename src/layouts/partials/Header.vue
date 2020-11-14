@@ -4,7 +4,16 @@
     class="header bg-teal-500 flex flex-col md:flex-row md:justify-between items-center p-4 md:p-6"
     role="banner"
   >
+  <g-link to="/" aria-label="back to home"
+        ><g-image
+          class = "w-12"
+          src   = "@/images/logo.png"
+          alt   = "logo family tree"
+      /></g-link>
+       
+
     <g-link
+  
       class="company-logo-link block text-white font-bold text-2xl md:text-3xl hover:text-purple-700"
       to="/"
       aria-label="Back to home"

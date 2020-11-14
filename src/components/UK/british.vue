@@ -24,7 +24,7 @@
       <li>Genealogy Resourses:<br />
       <g-link
           class  = "text-white hover:text-yellow-500"
-          to     = "/Europe/ukrainegeneral">
+          to     = "/Europe/britishgeneral">
           General
         </g-link>
 
@@ -32,7 +32,7 @@
 
         <g-link
           class  = "text-white hover:text-yellow-500"
-          to     = "/Jewish/ukraine">
+          to     = "/Jewish/british">
           Jewish
         </g-link>
       
