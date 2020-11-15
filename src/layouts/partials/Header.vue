@@ -4,20 +4,24 @@
     class="header bg-teal-500 flex flex-col md:flex-row md:justify-between items-center p-4 md:p-6"
     role="banner"
   >
-  <g-link to="/" aria-label="back to home"
+
+  <span class="flex content-start">
+
+       <g-link to="/" aria-label="back to home"
         ><g-image
           class = "w-12"
-          src   = "@/images/logo.png"
+          src   = "@/images/logotreerobin.svg"  
           alt   = "logo family tree"
       /></g-link>
        
-
     <g-link
   
       class="company-logo-link block text-white font-bold text-2xl md:text-3xl hover:text-purple-700"
       to="/"
       aria-label="Back to home"
     >{{ $static.metadata.siteName }}</g-link>
+</span>
+
 
     <nav id="nav" class="nav hidden md:flex">
       <ul class="menu flex flex-col md:flex-row items-center list-reset text-base">
@@ -35,6 +39,7 @@
         </li>
       </ul>
     </nav>
+    
   </header>
 </template>
 

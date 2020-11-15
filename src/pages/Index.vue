@@ -1,23 +1,38 @@
 <template>
   <Layout>
     <section id="container-centre" class="column centre flex-1">
-      <h1 class="page-title">Welcome to Skeleventy!</h1>
+      <h1 class="page-title">Welcome to Family History</h1>
       <div class="content">
-        <p>
-          A 
-          <a href="https://www.gridsome.org">Gridsome</a> starter built with
-          <a href="https://tailwindcss.com">TailwindCSS</a>.
-        </p>
-        <h2 class="text-3xl">Features</h2>
+        <p>What records are available, and where to find usefull family history records.</p>
+       
+        <div class="grid sm:flex">
+       
+        <g-image
+          class="object-fill"
+          src="@/images/logotreerobin.svg" width="400"
+          alt="logo"
+        />
+        <br />
+        
         <ul class="mb-12 list-disc pl-4">
-          <li>Build sites faster with the power of Gridsome, TailwindCSS and SCSS</li>
-          <li>Image lazyloading via gridsome builtin functionality</li>
-          <li>A simple blog with categories, tags and featured images</li>
+          <li>
+            Births records
+          </li>
+          <li>School records</li>
+          <li>Marriage records</li>
+          <li>Death records</li>
+          <li>Burial records</li>
+          <li>Will and Probate records</li>
+          <li>Census records</li>
+          <li>Electoral roll</li>
+          <li>Military records</li>
+          <li>Immigration & Travel records</li>
         </ul>
-        <h2 class="text-3xl">Credits</h2>
-        <p>
-          This template was built for <a href="https://www.11ty.dev/docs/" target="_blank">Eleventy</a> by <a href="https://github.com/josephdyer" target="_blank"> Joseph Dyer</a>.
-        </p>
+        </div>
+        
+        <br /><br />
+       
+      
       </div>
     </section>
   </Layout>
@@ -26,10 +41,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Home"
-  }
+    title: "Home",
+  },
 };
 </script>
-
-
-
