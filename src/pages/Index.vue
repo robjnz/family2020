@@ -3,14 +3,14 @@
     <section id="container-centre" class="column centre flex-1">
       <h1 class="page-title">Welcome to Family History</h1>
       <div class="content">
-        <p>What records are available, and where to find usefull family history records.</p>
+        <p >What records are available, and where to find them.</p>
        
         <div class="grid sm:flex">
        
         <g-image
           class="object-fill"
           src="@/images/logotreerobin.svg" width="400"
-          alt="logo"
+          alt="logo of tree "
         />
         <br />
         
@@ -27,6 +27,7 @@
           <li>Electoral roll</li>
           <li>Military records</li>
           <li>Immigration & Travel records</li>
+          <li>Naturalisation records</li>
         </ul>
         </div>
         

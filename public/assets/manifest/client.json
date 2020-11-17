@@ -1,8 +1,8 @@
 {
   "publicPath": "/",
   "all": [
-    "assets/css/25.styles.e64e1b4b.css",
-    "assets/js/app.478a7b4a.js",
+    "assets/css/25.styles.d6316e87.css",
+    "assets/js/app.6b23df61.js",
     "assets/js/page--node-modules-gridsome-app-pages-404-vue.08e3f63c.js",
     "assets/js/page--src-pages-about-vue.099c9bbe.js",
     "assets/js/page--src-pages-blog-vue.c4cf94f7.js",
@@ -10,16 +10,16 @@
     "assets/js/page--src-pages-europe-austriangeneral-vue.0fe637f5.js",
     "assets/js/page--src-pages-europe-belarusgeneral-vue.cf5aff20.js",
     "assets/js/page--src-pages-europe-belgiumgeneral-vue.bf8d2336.js",
-    "assets/js/page--src-pages-europe-britishgeneral-vue.8b59f073.js",
+    "assets/js/page--src-pages-europe-britishgeneral-vue.a2f18fa3.js",
     "assets/js/page--src-pages-europe-irelandgeneral-vue.0c4c4143.js",
     "assets/js/page--src-pages-europe-netherlandsgeneral-vue.2bc67c8d.js",
     "assets/js/page--src-pages-europe-russiangeneral-vue.1b29b4a6.js",
     "assets/js/page--src-pages-europe-ukrainegeneral-vue.4d7417f0.js",
     "assets/js/page--src-pages-europe-vue.86e5d5d3.js",
-    "assets/js/page--src-pages-index-vue.bc218e99.js",
-    "assets/js/page--src-pages-jewish-austria-vue.3e5345b9.js",
+    "assets/js/page--src-pages-index-vue.1cd7edfd.js",
+    "assets/js/page--src-pages-jewish-austria-vue.c4379045.js",
     "assets/js/page--src-pages-jewish-belarus-vue.830d1047.js",
-    "assets/js/page--src-pages-jewish-britain-vue.7fd696f6.js",
+    "assets/js/page--src-pages-jewish-british-vue.fb24f06c.js",
     "assets/js/page--src-pages-jewish-ireland-vue.49904119.js",
     "assets/js/page--src-pages-jewish-netherlands-vue.ad23c3dc.js",
     "assets/js/page--src-pages-jewish-russia-vue.1ae00fe0.js",
@@ -29,8 +29,8 @@
     "assets/js/page--src-templates-tag-vue.800af0ef.js"
   ],
   "initial": [
-    "assets/css/25.styles.e64e1b4b.css",
-    "assets/js/app.478a7b4a.js"
+    "assets/css/25.styles.d6316e87.css",
+    "assets/js/app.6b23df61.js"
   ],
   "async": [
     "assets/js/page--node-modules-gridsome-app-pages-404-vue.08e3f63c.js",
@@ -40,16 +40,16 @@
     "assets/js/page--src-pages-europe-austriangeneral-vue.0fe637f5.js",
     "assets/js/page--src-pages-europe-belarusgeneral-vue.cf5aff20.js",
     "assets/js/page--src-pages-europe-belgiumgeneral-vue.bf8d2336.js",
-    "assets/js/page--src-pages-europe-britishgeneral-vue.8b59f073.js",
+    "assets/js/page--src-pages-europe-britishgeneral-vue.a2f18fa3.js",
     "assets/js/page--src-pages-europe-irelandgeneral-vue.0c4c4143.js",
     "assets/js/page--src-pages-europe-netherlandsgeneral-vue.2bc67c8d.js",
     "assets/js/page--src-pages-europe-russiangeneral-vue.1b29b4a6.js",
     "assets/js/page--src-pages-europe-ukrainegeneral-vue.4d7417f0.js",
     "assets/js/page--src-pages-europe-vue.86e5d5d3.js",
-    "assets/js/page--src-pages-index-vue.bc218e99.js",
-    "assets/js/page--src-pages-jewish-austria-vue.3e5345b9.js",
+    "assets/js/page--src-pages-index-vue.1cd7edfd.js",
+    "assets/js/page--src-pages-jewish-austria-vue.c4379045.js",
     "assets/js/page--src-pages-jewish-belarus-vue.830d1047.js",
-    "assets/js/page--src-pages-jewish-britain-vue.7fd696f6.js",
+    "assets/js/page--src-pages-jewish-british-vue.fb24f06c.js",
     "assets/js/page--src-pages-jewish-ireland-vue.49904119.js",
     "assets/js/page--src-pages-jewish-netherlands-vue.ad23c3dc.js",
     "assets/js/page--src-pages-jewish-russia-vue.1ae00fe0.js",
@@ -79,6 +79,9 @@
     ],
     "65818686": [
       1
+    ],
+    "73638511": [
+      18
     ],
     "92529548": [
       1
@@ -191,6 +194,9 @@
     "5ea034af": [
       1
     ],
+    "abd57a0c": [
+      18
+    ],
     "6337b1c0": [
       1
     ],
@@ -214,6 +220,9 @@
     ],
     "a8738d1a": [
       14
+    ],
+    "1143cda7": [
+      15
     ],
     "69ec3ff9": [
       20
@@ -256,6 +265,9 @@
     ],
     "7ad5f294": [
       1
+    ],
+    "8b6375ae": [
+      18
     ],
     "2698a1f3": [
       1
@@ -317,14 +329,17 @@
     "165ad61a": [
       1
     ],
-    "1bb1007c": [
-      18
+    "3b791aac": [
+      1
     ],
     "270e8c7f": [
       9
     ],
     "26c9d0b7": [
       1
+    ],
+    "059e8f58": [
+      18
     ],
     "dce688f8": [
       1
@@ -340,6 +355,9 @@
     ],
     "287625a9": [
       1
+    ],
+    "362f1f7a": [
+      16
     ],
     "5f149b94": [
       1
@@ -369,9 +387,6 @@
       1
     ],
     "c027cc9a": [
-      1
-    ],
-    "6dd26b91": [
       1
     ],
     "55ebe916": [
@@ -613,6 +628,9 @@
     ],
     "692918eb": [
       12
+    ],
+    "640bec88": [
+      16
     ],
     "2fd21c51": [
       1
