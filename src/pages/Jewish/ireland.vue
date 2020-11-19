@@ -1,9 +1,6 @@
 <template>
   <Layout>
     <div id="background" class="container m-auto">
-
-     
-
       <h1 class="ml-8 mt-3 text-4xl text-teal-900">
         <g-image
           class="h-10 w-12 inline-block"
@@ -17,15 +14,14 @@
 
       <div class="grid sm:flex">
         <irish />
-       
       </div>
-
-       
-
     </div>
-    
-<p> <g-link class="text-red-600 hover:text-yellow-600" to="/Europe/irelandgeneral">Ireland</g-link></p>
 
+    <p>
+      <dropdown />
+      <jewish />
+    </p>
+    <br />
     <p>
       Add
       <g-link
@@ -44,6 +40,8 @@
 
 <script>
 import irish from "@/components/Ireland/Jewish/irish";
+import dropdown from "@/components/Dropdown/dropdown";
+import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -58,6 +56,8 @@ export default {
   },
   components: {
     irish,
-  }
+    dropdown,
+    jewish,
+  },
 };
 </script>

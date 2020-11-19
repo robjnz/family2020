@@ -16,7 +16,7 @@
         Search the 1939 pre war census register <br />also avaliable on
         Ancestry.
       </p>
-      <br /><br /><br />
+      <br />
       <g-link
         class="text-white hover:text-yellow-500"
         to="http://bit.ly/2L2exrF"

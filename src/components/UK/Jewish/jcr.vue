@@ -11,7 +11,7 @@
         alt="image of a database"
       />
       <br />
-      <p>Database of jewish record <br />in the United Kingdom.</p>
+      <p>Database of jewish record's <br />in the United Kingdom.</p>
       <br />
       <g-link
         class="text-white hover:text-yellow-500"

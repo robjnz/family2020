@@ -31,12 +31,10 @@
       </div>
     </div>
     <p>
-      <g-link
-        class="text-red-600 hover:text-yellow-600"
-        to="/Europe/ukrainegeneral"
-        >Ukraine</g-link
-      >
+      <dropdown />
+      <jewish />
     </p>
+    <br />
     <p>
       Add
       <g-link
@@ -63,7 +61,8 @@ import mohyliv from "@/components/Ukraine/Jewish/mohyliv";
 import skala from "@/components/Ukraine/Jewish/skala";
 import gen from "@/components/Ukraine/Jewish/gen";
 import kehilalinks from "@/components/Ukraine/Jewish/kehilalinks";
-
+import dropdown from "@/components/Dropdown/dropdown";
+import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -86,6 +85,8 @@ export default {
     skala,
     gen,
     kehilalinks,
+    dropdown,
+    jewish,
   },
 };
 </script>

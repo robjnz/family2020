@@ -1,9 +1,6 @@
 <template>
   <Layout>
     <div id="background" class="container m-auto">
-
-     
-
       <h1 class="ml-8 mt-3 text-4xl text-teal-900">
         <g-image
           class="h-10 w-12 inline-block"
@@ -19,15 +16,14 @@
         <census />
         <genealogy />
         <toolkit />
-       
       </div>
-
-       
-
     </div>
-    
-<p> <g-link class="text-red-600 hover:text-yellow-600" to="/Jewish/ireland">Ireland Jewish</g-link></p>
 
+    <p>
+      <dropdown />
+      <jewish />
+    </p>
+    <br />
     <p>
       Add
       <g-link
@@ -48,10 +44,8 @@
 import census from "@/components/Ireland/General/census";
 import genealogy from "@/components/Ireland/General/genealogy";
 import toolkit from "@/components/Ireland/General/toolkit";
-
-
-
-
+import dropdown from "@/components/Dropdown/dropdown";
+import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -68,6 +62,8 @@ export default {
     census,
     genealogy,
     toolkit,
-  }
+    dropdown,
+    jewish,
+  },
 };
 </script>

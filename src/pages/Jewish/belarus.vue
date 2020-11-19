@@ -16,12 +16,15 @@
         <weiner />
         <sig />
         <belarusjewish />
-        
 
         <br />
       </div>
     </div>
-<p> <g-link class="text-red-600 hover:text-orange-600" to="/europe/belarusgeneral">Belarus</g-link></p>
+    <p>
+      <dropdown />
+      <jewish />
+    </p>
+    <br />
 
     <p>
       Add
@@ -43,7 +46,8 @@
 import weiner from "@/components/Belarus/Jewish/weiner";
 import sig from "@/components/Belarus/Jewish/sig";
 import belarusjewish from "@/components/Belarus/Jewish/belarusjewish";
-
+import dropdown from "@/components/Dropdown/dropdown";
+import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -51,8 +55,7 @@ export default {
     meta: [
       {
         name: "description",
-        content:
-          "Belarus jewish records of birth death and marriages",
+        content: "Belarus jewish records of birth death and marriages",
       },
     ],
   },
@@ -60,6 +63,8 @@ export default {
     weiner,
     sig,
     belarusjewish,
+    dropdown,
+    jewish,
   },
 };
 </script>

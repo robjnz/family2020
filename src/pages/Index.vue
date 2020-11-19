@@ -15,9 +15,7 @@
         <br />
         
         <ul class="mb-12 list-disc pl-4">
-          <li>
-            Births records
-          </li>
+          <li>Births records</li>
           <li>School records</li>
           <li>Marriage records</li>
           <li>Death records</li>
@@ -28,6 +26,7 @@
           <li>Military records</li>
           <li>Immigration & Travel records</li>
           <li>Naturalisation records</li>
+          <li>Trade Directories</li>
         </ul>
         </div>
         

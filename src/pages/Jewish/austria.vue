@@ -20,8 +20,11 @@
         <br />
       </div>
     </div>
-<p> <g-link class="text-red-600 hover:text-yellow-600" to="/europe/austriangeneral">Austrian</g-link></p>
-
+    <p>
+      <dropdown />
+      <jewish />
+    </p>
+    <br />
     <p>
       Add
       <g-link
@@ -42,6 +45,8 @@
 import viennabirth from "@/components/Austrian/Jewish/viennabirth";
 import viennaweddings from "@/components/Austrian/Jewish/viennaweddings";
 import viennacemetery from "@/components/Austrian/Jewish/viennacemetery";
+import dropdown from "@/components/Dropdown/dropdown";
+import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -49,8 +54,7 @@ export default {
     meta: [
       {
         name: "description",
-        content:
-          "Austrian Vienna jewish records of birth death and marriages",
+        content: "Austrian Vienna jewish records of birth death and marriages",
       },
     ],
   },
@@ -58,6 +62,8 @@ export default {
     viennacemetery,
     viennabirth,
     viennaweddings,
+    dropdown,
+    jewish,
   },
 };
 </script>

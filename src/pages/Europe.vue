@@ -7,7 +7,7 @@
         </span>
         Family History Resourses For Europe
       </h1>
-      
+
       <br />
 
       <div class="grid sm:flex">
@@ -17,25 +17,22 @@
       </div>
 
       <div class="grid sm:flex">
+        <french />
         <ireland />
         <netherlands />
-        <russia />
       </div>
 
       <div class="grid sm:flex">
-         <ukraine />
+        <russia />
+        <ukraine />
         <british />
-       
       </div>
-
-     
     </div>
     <br />
   </Layout>
 </template>
 
 <script>
-
 import austria from "@/components/Austrian/austria";
 import belarus from "@/components/Belarus/belarus";
 import belgium from "@/components/Belgium/belgium";
@@ -44,11 +41,7 @@ import netherlands from "@/components/Netherlands/netherlands";
 import russia from "@/components/Russia/russia";
 import ukraine from "@/components/Ukraine/ukraine";
 import british from "@/components/UK/british";
-
-
-
-
-
+import french from "@/components/French/french";
 
 export default {
   metaInfo: {
@@ -56,12 +49,10 @@ export default {
     meta: [
       {
         name: "description",
-        content: "A to Z guide of what plays, that are showing at London theatres. Due to coronavirus London theatres are curently closed, new exciting shows coming soon.",
+        content:
+          "A to Z guide of what plays, that are showing at London theatres. Due to coronavirus London theatres are curently closed, new exciting shows coming soon.",
       },
-       [
-
-        {src: 'https://kit.fontawesome.com/e3c70d4fc5.js'}
-      ],
+      [{ src: "https://kit.fontawesome.com/e3c70d4fc5.js" }],
     ],
   },
   components: {
@@ -73,7 +64,7 @@ export default {
     russia,
     ukraine,
     british,
-    
+    french,
   },
 };
 </script>

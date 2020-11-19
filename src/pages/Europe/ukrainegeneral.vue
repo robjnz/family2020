@@ -16,16 +16,13 @@
         <statearchives />
         <family />
         <residents />
-       
       </div>
-
-      
     </div>
     <p>
-      <g-link class="text-red-600 hover:text-yellow-600" to="/Jewish/ukraine"
-        >Ukraine Jewish</g-link
-      >
+      <dropdown />
+      <jewish />
     </p>
+    <br />
     <p>
       Add
       <g-link
@@ -46,7 +43,8 @@
 import statearchives from "@/components/Ukraine/General/statearchives";
 import family from "@/components/Ukraine/General/family";
 import residents from "@/components/Ukraine/General/residents";
-
+import dropdown from "@/components/Dropdown/dropdown";
+import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -63,7 +61,8 @@ export default {
     statearchives,
     family,
     residents,
-   
+    dropdown,
+    jewish,
   },
 };
 </script>

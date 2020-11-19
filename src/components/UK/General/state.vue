@@ -12,7 +12,7 @@
       />
       <br />
       <p>British State Archives</p>
-      <br />
+      <br /><br /><br /><br /><br />
       <g-link
         class="text-white hover:text-yellow-500"
         to="http://bit.ly/2Xlfsx4"

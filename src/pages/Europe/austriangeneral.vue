@@ -1,9 +1,6 @@
 <template>
   <Layout>
     <div id="background" class="container m-auto">
-
-     
-
       <h1 class="ml-8 mt-3 text-4xl text-teal-900">
         <g-image
           class="h-10 w-12 inline-block"
@@ -23,7 +20,11 @@
         <br />
       </div>
     </div>
-<p> <g-link class="text-red-600 hover:text-yellow-600" to="/Jewish/austria">Austrian Jewish</g-link></p>
+    <p>
+      <dropdown />
+      <jewish />
+    </p>
+    <br />
     <p>
       Add
       <g-link
@@ -44,7 +45,8 @@
 import statearchives from "@/components/Austrian/General/statearchives";
 import genteam from "@/components/Austrian/General/genteam";
 import vienna from "@/components/Austrian/General/vienna";
-
+import dropdown from "@/components/Dropdown/dropdown";
+import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -52,8 +54,7 @@ export default {
     meta: [
       {
         name: "description",
-        content:
-          "Austrian Vienna records of birth death and marriages",
+        content: "Austrian Vienna records of birth death and marriages",
       },
     ],
   },
@@ -61,7 +62,8 @@ export default {
     statearchives,
     genteam,
     vienna,
+    dropdown,
+    jewish,
   },
 };
 </script>
-

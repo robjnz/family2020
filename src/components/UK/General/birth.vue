@@ -15,7 +15,7 @@
         Free birth marriages and<br />
         death index from 1837 to 1992.
       </p>
-      <br /><br /><br /><br />
+      <br />
       <g-link
         class="text-white hover:text-yellow-500"
         to="http://bit.ly/2IguCfJ"

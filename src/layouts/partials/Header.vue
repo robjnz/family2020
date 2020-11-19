@@ -38,18 +38,24 @@
           >{{ element.name }}</g-link>
         </li>
       </ul>
+     
     </nav>
     
   </header>
 </template>
 
 <script>
+
+
 export default {
   methods: {
     socialIcon(element) {
       return `/icons.svg#icon-${element.icon}`;
     }
-  }
+  },
+   components: {
+    
+  },
 };
 </script>
 

@@ -27,8 +27,11 @@
 
     </div>
     
-<p> <g-link class="text-red-600 hover:text-yellow-600" to="/Jewish/netherlands">Netherlands Jewish</g-link></p>
-
+ <p>
+        <dropdown />
+        <jewish />
+      </p>
+      <br />
     <p>
       Add
       <g-link
@@ -50,6 +53,8 @@ import amstadam from "@/components/Netherlands/General/amstadam";
 import dutch from "@/components/Netherlands/General/dutch";
 import open from "@/components/Netherlands/General/open";
 import wie from "@/components/Netherlands/General/wie";
+import dropdown from "@/components/Dropdown/dropdown";
+import jewish from "@/components/Dropdown/jewish";
 
 
 
@@ -70,6 +75,8 @@ export default {
     dutch,
     open,
     wie,
+    dropdown,
+    jewish,
   }
 };
 </script>

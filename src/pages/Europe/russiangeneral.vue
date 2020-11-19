@@ -34,11 +34,12 @@
         <temples />
       </div>
     </div>
+
     <p>
-      <g-link class="text-red-600 hover:text-yellow-600" to="/Jewish/russia"
-        >Russian Jewish</g-link
-      >
+      <dropdown />
+      <jewish />
     </p>
+    <br />
     <p>
       Add
       <g-link
@@ -66,6 +67,8 @@ import military from "@/components/Russia/General/military";
 import temples from "@/components/Russia/General/temples";
 import soviet from "@/components/Russia/General/soviet";
 import hero from "@/components/Russia/Jewish/hero";
+import dropdown from "@/components/Dropdown/dropdown";
+import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -89,6 +92,8 @@ export default {
     soviet,
     temples,
     hero,
+    dropdown,
+    jewish,
   },
 };
 </script>

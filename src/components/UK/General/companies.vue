@@ -12,7 +12,7 @@
       />
       <br />
       <p>Free search the register <br />of Companies and directors.</p>
-      <br /><br /><br /><br />
+      <br />
       <g-link
         class="text-white hover:text-yellow-500"
         to="https://bit.ly/3poS64b"

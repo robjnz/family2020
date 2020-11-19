@@ -19,17 +19,22 @@
       </div>
 
       <div class="grid sm:flex">
+        <first />
+        <marriage />
+        <army />
+      </div>
 
-
-        
+      <div class="grid sm:flex">
+        <fifty />
+        <fiftyone />
       </div>
 
       <br />
       <div class="border-b-4 border-gray-200"></div>
       <br />
 
-       <h1 class="ml-8 mt-3 text-4xl text-teal-900">
-       Jewish Cemeteries
+      <h1 class="ml-8 mt-3 text-4xl text-teal-900">
+        Jewish Cemeteries
       </h1>
 
       <adath />
@@ -38,16 +43,11 @@
       <united />
       <western />
 
-
-
-
       <p>
-        <g-link
-          class="text-red-600 hover:text-yellow-600"
-          to="/europe/britishgeneral"
-          >British</g-link
-        >
+        <dropdown />
+        <jewish />
       </p>
+      <br />
 
       <p>
         Add
@@ -70,12 +70,19 @@
 import jcr from "@/components/UK/Jewish/jcr";
 import jc from "@/components/UK/Jewish/jc";
 import jfs from "@/components/UK/Jewish/jfs";
+import first from "@/components/UK/Jewish/first";
+import marriage from "@/components/UK/Jewish/marriage";
+import army from "@/components/UK/Jewish/army";
+import fifty from "@/components/UK/Jewish/fifty";
+import fiftyone from "@/components/UK/Jewish/fiftyone";
+
 import adath from "@/components/UK/Jewish/Cemeteries/adath";
 import fed from "@/components/UK/Jewish/Cemeteries/fed";
 import liberal from "@/components/UK/Jewish/Cemeteries/liberal";
 import united from "@/components/UK/Jewish/Cemeteries/united";
 import western from "@/components/UK/Jewish/Cemeteries/western";
-
+import dropdown from "@/components/Dropdown/dropdown";
+import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -97,6 +104,13 @@ export default {
     liberal,
     united,
     western,
+    first,
+    army,
+    marriage,
+    fifty,
+    fiftyone,
+    dropdown,
+    jewish,
   },
 };
 </script>

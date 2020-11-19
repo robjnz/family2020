@@ -7,8 +7,8 @@
      
         <g-image 
           class = "h-32 w-full object-fill"
-          src   = "@/images/europe/britmila.jpg"
-          alt = "austria flag"
+          src   = "@/images/europe/wedding.jpg"
+          alt = "images of jewish wedding"
       />
        <br />
       <p>Search the Vienna <br />Turkish Comunity

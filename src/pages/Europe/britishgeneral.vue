@@ -15,32 +15,37 @@
 
       <div class="grid sm:flex">
         <birth />
+        <children />
         <companies />
-        <gazette />
       </div>
 
       <div class="grid sm:flex">
-        <newspaper />
-        <raf />
-        <state />
+        <roll />
+        <trade />
+        <industral />
       </div>
 
-        <div class="grid sm:flex">
-          <war />
-          <wills />
-          <thirtynine />
-        </div>
+      <div class="grid sm:flex">
+        <gazette />
+        <newspaper />
+        <raf />
+      </div>
 
-                <div class="grid sm:flex">
-                  <roll />
-                </div>
-      
+      <div class="grid sm:flex">
+        <state />
+        <war />
+        <wills />
+      </div>
+      <div class="grid sm:flex">
+        <workhouse />
+        <thirtynine />
+      </div>
 
       <p>
-        <g-link class="text-red-600 hover:text-yellow-600" to="/Jewish/british"
-          >British Jewish</g-link
-        >
+        <dropdown />
+        <jewish />
       </p>
+      <br />
       <p>
         Add
         <g-link
@@ -69,7 +74,13 @@ import wills from "@/components/UK/General/wills";
 import war from "@/components/UK/General/war";
 import thirtynine from "@/components/UK/General/thirtynine";
 import roll from "@/components/UK/General/roll";
+import trade from "@/components/UK/General/trade";
+import workhouse from "@/components/UK/General/workhouse";
+import children from "@/components/UK/General/children";
+import industral from "@/components/UK/General/industral";
 
+import dropdown from "@/components/Dropdown/dropdown";
+import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -93,6 +104,12 @@ export default {
     war,
     thirtynine,
     roll,
+    trade,
+    workhouse,
+    children,
+    industral,
+    dropdown,
+    jewish,
   },
 };
 </script>
