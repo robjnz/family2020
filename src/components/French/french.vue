@@ -24,18 +24,18 @@
       <li>Genealogy Resourses:<br />
       <g-link
           class  = "text-white hover:text-yellow-500"
-          to     = "/Europe/britishgeneral">
+          to     = "/Europe/frenchgeneral">
           General
         </g-link>
 
         <br />
-
+<!--
         <g-link
           class  = "text-white hover:text-yellow-500"
           to     = "/Jewish/british">
           Jewish
         </g-link>
-      
+      -->
       </li>
       </ul>
 

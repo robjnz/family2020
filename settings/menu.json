@@ -5,6 +5,10 @@
       "link": "/"
     },
     {
+      "name": "General",
+      "link": "/general"
+    },
+    {
       "name": "Blog",
       "link": "/blog"
     },
@@ -16,10 +20,7 @@
       "name": "Europe",
       "link": "/europe"
     },
-     {
-      "name": "Robin",
-      "link": "/robin"
-    },
+    
     {
       "name": "Robin",
       "link": "/robin"
