@@ -9,6 +9,10 @@
       "link": "/general"
     },
     {
+      "name": "Australasia",
+      "link": "/australasia"
+    },
+    {
       "name": "Blog",
       "link": "/blog"
     },
@@ -19,11 +23,7 @@
     {
       "name": "Europe",
       "link": "/europe"
-    },
-    
-    {
-      "name": "Robin",
-      "link": "/robin"
     }
+    
   ]
 }

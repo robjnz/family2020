@@ -13,9 +13,13 @@
       <br />
 
       <div class="grid sm:flex">
-        <statearchives />
-        <family />
+        <dnipropetrovsk />
         <residents />
+        <family />
+      </div>
+
+      <div class="grid sm:flex">
+        <statearchives />
       </div>
     </div>
     <p>
@@ -43,6 +47,8 @@
 import statearchives from "@/components/Ukraine/General/statearchives";
 import family from "@/components/Ukraine/General/family";
 import residents from "@/components/Ukraine/General/residents";
+import dnipropetrovsk from "@/components/Ukraine/General/dnipropetrovsk";
+
 import dropdown from "@/components/Dropdown/dropdown";
 import jewish from "@/components/Dropdown/jewish";
 
@@ -61,6 +67,7 @@ export default {
     statearchives,
     family,
     residents,
+    dnipropetrovsk,
     dropdown,
     jewish,
   },

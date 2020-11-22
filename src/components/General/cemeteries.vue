@@ -11,7 +11,7 @@
         alt="image of a jewish cemetery"
       />
       <br />
-      <p>Jewish cemeteries <br />searchable database Poland.</p>
+      <p>searchable database for <br />jewish cemeteries in Poland.</p>
       <br />
       <g-link
         class="text-white hover:text-yellow-500"
