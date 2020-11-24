@@ -22,7 +22,7 @@
     </div>
     <p>
       <dropdown />
-      <jewish />
+      
     </p>
     <br />
 
@@ -47,7 +47,6 @@ import weiner from "@/components/Belarus/Jewish/weiner";
 import sig from "@/components/Belarus/Jewish/sig";
 import belarusjewish from "@/components/Belarus/Jewish/belarusjewish";
 import dropdown from "@/components/Dropdown/dropdown";
-import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -64,7 +63,6 @@ export default {
     sig,
     belarusjewish,
     dropdown,
-    jewish,
   },
 };
 </script>

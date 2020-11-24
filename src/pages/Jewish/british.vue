@@ -45,7 +45,7 @@
 
       <p>
         <dropdown />
-        <jewish />
+      
       </p>
       <br />
 
@@ -82,7 +82,6 @@ import liberal from "@/components/UK/Jewish/Cemeteries/liberal";
 import united from "@/components/UK/Jewish/Cemeteries/united";
 import western from "@/components/UK/Jewish/Cemeteries/western";
 import dropdown from "@/components/Dropdown/dropdown";
-import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -110,7 +109,7 @@ export default {
     fifty,
     fiftyone,
     dropdown,
-    jewish,
+    
   },
 };
 </script>

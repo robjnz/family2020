@@ -21,7 +21,7 @@
 
     <p>
       <dropdown />
-      <jewish />
+     
     </p>
     <br />
     <p>
@@ -45,7 +45,6 @@ import census from "@/components/Ireland/General/census";
 import genealogy from "@/components/Ireland/General/genealogy";
 import toolkit from "@/components/Ireland/General/toolkit";
 import dropdown from "@/components/Dropdown/dropdown";
-import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -63,7 +62,6 @@ export default {
     genealogy,
     toolkit,
     dropdown,
-    jewish,
   },
 };
 </script>

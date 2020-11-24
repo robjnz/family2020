@@ -22,7 +22,7 @@
     </div>
     <p>
       <dropdown />
-      <jewish />
+     
     </p>
     <br />
     <p>
@@ -46,7 +46,6 @@ import viennabirth from "@/components/Austrian/Jewish/viennabirth";
 import viennaweddings from "@/components/Austrian/Jewish/viennaweddings";
 import viennacemetery from "@/components/Austrian/Jewish/viennacemetery";
 import dropdown from "@/components/Dropdown/dropdown";
-import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -63,7 +62,7 @@ export default {
     viennabirth,
     viennaweddings,
     dropdown,
-    jewish,
+   
   },
 };
 </script>

@@ -18,7 +18,7 @@
       <li>Currency:  Ruble</li>
       <li>Population: 144.5 million <br />in 2018</li><br />
       <li>Religion:<br />Russian Orthodoxy 71%<br /> Christians 3%<br />Islam 10%<br /></li>
-      <br /><br /><br /><br />
+      <br /><br /><br /><br /><br />
 
       <li>Genealogy Resourses:<br />
       <g-link

@@ -24,7 +24,6 @@
     </div>
     <p>
       <dropdown />
-      <jewish />
     </p>
     <br />
     <p>
@@ -50,7 +49,6 @@ import residents from "@/components/Ukraine/General/residents";
 import dnipropetrovsk from "@/components/Ukraine/General/dnipropetrovsk";
 
 import dropdown from "@/components/Dropdown/dropdown";
-import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -69,7 +67,6 @@ export default {
     residents,
     dnipropetrovsk,
     dropdown,
-    jewish,
   },
 };
 </script>

@@ -32,7 +32,6 @@
     </div>
     <p>
       <dropdown />
-      <jewish />
     </p>
     <br />
     <p>
@@ -62,7 +61,6 @@ import skala from "@/components/Ukraine/Jewish/skala";
 import gen from "@/components/Ukraine/Jewish/gen";
 import kehilalinks from "@/components/Ukraine/Jewish/kehilalinks";
 import dropdown from "@/components/Dropdown/dropdown";
-import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -86,7 +84,6 @@ export default {
     gen,
     kehilalinks,
     dropdown,
-    jewish,
   },
 };
 </script>

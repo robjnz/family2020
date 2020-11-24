@@ -21,7 +21,7 @@
 
     <p>
       <dropdown />
-      <jewish />
+      
     </p>
 
     <br />
@@ -45,7 +45,6 @@
 <script>
 import statearchives from "@/components/Belarus/General/statearchives";
 import dropdown from "@/components/Dropdown/dropdown";
-import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -60,7 +59,6 @@ export default {
   components: {
     statearchives,
     dropdown,
-    jewish,
   },
 };
 </script>

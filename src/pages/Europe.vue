@@ -50,9 +50,8 @@ export default {
       {
         name: "description",
         content:
-          "A to Z guide of what plays, that are showing at London theatres. Due to coronavirus London theatres are curently closed, new exciting shows coming soon.",
+          "Australasia where to find family history Resourses of birth, death and mariages",
       },
-      [{ src: "https://kit.fontawesome.com/e3c70d4fc5.js" }],
     ],
   },
   components: {

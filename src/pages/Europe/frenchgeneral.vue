@@ -21,7 +21,7 @@
      
       <p>
         <dropdown />
-        <jewish />
+       
       </p>
       <br />
       <p>
@@ -46,7 +46,6 @@ import state from "@/components/French/General/state";
 import naturalisation from "@/components/French/General/naturalisation";
 
 import dropdown from "@/components/Dropdown/dropdown";
-import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -64,7 +63,6 @@ export default {
     state,
     
     dropdown,
-    jewish,
   },
 };
 </script>

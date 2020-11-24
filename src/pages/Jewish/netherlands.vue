@@ -26,7 +26,6 @@
 
     <p>
       <dropdown />
-      <jewish />
     </p>
     <br />
     <p>
@@ -52,7 +51,6 @@ import akevoth from "@/components/Netherlands/Jewish/akevoth";
 import joods from "@/components/Netherlands/Jewish/joods";
 import sephardic from "@/components/Netherlands/Jewish/sephardic";
 import dropdown from "@/components/Dropdown/dropdown";
-import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -72,7 +70,6 @@ export default {
     joods,
     sephardic,
     dropdown,
-    jewish,
   },
 };
 </script>

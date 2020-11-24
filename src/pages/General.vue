@@ -53,11 +53,12 @@
         <shtetl />
         <transkribus />
       </div>
-      <br /><br />
-      <p>
+
+
+      <br />
+     
         <dropdown />
-        <jewish />
-      </p>
+        
       <br />
       <p>
         Add
@@ -95,7 +96,6 @@ import shtetl from "@/components/General/shtetl";
 import transkribus from "@/components/General/transkribus";
  
 import dropdown from "@/components/Dropdown/dropdown";
-import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -126,7 +126,6 @@ export default {
     shtetl,
     transkribus,
     dropdown,
-    jewish,
   },
 };
 </script>

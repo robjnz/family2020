@@ -22,7 +22,7 @@
     </div>
     <p>
       <dropdown />
-      <jewish />
+      
     </p>
     <br />
     <p>
@@ -46,7 +46,6 @@ import statearchives from "@/components/Belgium/General/statearchives";
 import genealogy from "@/components/Belgium/General/genealogy";
 import ancestry from "@/components/Belgium/General/ancestry";
 import dropdown from "@/components/Dropdown/dropdown";
-import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -63,7 +62,7 @@ export default {
     genealogy,
     ancestry,
     dropdown,
-    jewish,
+    
   },
 };
 </script>

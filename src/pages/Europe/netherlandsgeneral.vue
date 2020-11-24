@@ -29,7 +29,6 @@
     
  <p>
         <dropdown />
-        <jewish />
       </p>
       <br />
     <p>
@@ -54,7 +53,6 @@ import dutch from "@/components/Netherlands/General/dutch";
 import open from "@/components/Netherlands/General/open";
 import wie from "@/components/Netherlands/General/wie";
 import dropdown from "@/components/Dropdown/dropdown";
-import jewish from "@/components/Dropdown/jewish";
 
 
 
@@ -76,7 +74,6 @@ export default {
     open,
     wie,
     dropdown,
-    jewish,
   }
 };
 </script>

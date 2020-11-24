@@ -19,7 +19,7 @@
 
     <p>
       <dropdown />
-      <jewish />
+      
     </p>
     <br />
     <p>
@@ -41,7 +41,6 @@
 <script>
 import irish from "@/components/Ireland/Jewish/irish";
 import dropdown from "@/components/Dropdown/dropdown";
-import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -57,7 +56,6 @@ export default {
   components: {
     irish,
     dropdown,
-    jewish,
   },
 };
 </script>

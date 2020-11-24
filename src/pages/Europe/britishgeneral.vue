@@ -43,7 +43,7 @@
 
       <p>
         <dropdown />
-        <jewish />
+       
       </p>
       <br />
       <p>
@@ -80,7 +80,6 @@ import children from "@/components/UK/General/children";
 import industral from "@/components/UK/General/industral";
 
 import dropdown from "@/components/Dropdown/dropdown";
-import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -109,7 +108,6 @@ export default {
     children,
     industral,
     dropdown,
-    jewish,
   },
 };
 </script>

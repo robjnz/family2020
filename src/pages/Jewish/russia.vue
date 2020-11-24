@@ -20,7 +20,6 @@
     </div>
     <p>
       <dropdown />
-      <jewish />
     </p>
     <br />
     <p>
@@ -44,7 +43,6 @@ import soldier from "@/components/Russia/Jewish/soldier";
 import soldiers from "@/components/Russia/Jewish/soldiers";
 import hero from "@/components/Russia/Jewish/hero";
 import dropdown from "@/components/Dropdown/dropdown";
-import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -62,7 +60,6 @@ export default {
     soldiers,
     hero,
     dropdown,
-    jewish,
   },
 };
 </script>

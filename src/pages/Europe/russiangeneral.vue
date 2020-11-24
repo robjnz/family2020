@@ -37,7 +37,6 @@
 
     <p>
       <dropdown />
-      <jewish />
     </p>
     <br />
     <p>
@@ -68,7 +67,6 @@ import temples from "@/components/Russia/General/temples";
 import soviet from "@/components/Russia/General/soviet";
 import hero from "@/components/Russia/Jewish/hero";
 import dropdown from "@/components/Dropdown/dropdown";
-import jewish from "@/components/Dropdown/jewish";
 
 export default {
   metaInfo: {
@@ -93,7 +91,6 @@ export default {
     temples,
     hero,
     dropdown,
-    jewish,
   },
 };
 </script>
