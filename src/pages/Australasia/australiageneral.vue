@@ -17,23 +17,6 @@
       </div>
 
       <br />
-      <div class="border-b-4 border-gray-200"></div>
-      <br />
-
-      <h1 class="ml-8 mt-3 text-4xl text-teal-900">
-        <g-image
-          class="h-10 w-12 inline-block"
-          src="@/images/europe/newzealand-flag.jpg"
-          alt="image of australian flag"
-        />
-        New Zealand Family History Resourses
-      </h1>
-
-     
-
-     
-
-      <br />
       <p>
        
         <dropdown />

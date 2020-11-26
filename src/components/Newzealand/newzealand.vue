@@ -23,7 +23,7 @@
       <li>Genealogy Resourses:<br />
       <g-link
           class  = "text-white hover:text-yellow-500"
-          to     = "/Australasia/australiageneral">
+          to     = "/Australasia/newzealandgeneral">
           General
         </g-link>
 
@@ -31,7 +31,7 @@
 
         <g-link
           class  = "text-white hover:text-yellow-500"
-          to     = "/Jewish/australia">
+          to     = "/Jewish/newzealand">
           Jewish
         </g-link>
       

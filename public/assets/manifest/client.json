@@ -2,71 +2,75 @@
   "publicPath": "/",
   "all": [
     "assets/css/0.styles.49f8cf40.css",
-    "assets/js/app.be407be1.js",
+    "assets/js/app.c4428fd5.js",
     "assets/js/page--node-modules-gridsome-app-pages-404-vue.710bef41.js",
     "assets/js/page--src-pages-about-vue.515ba867.js",
-    "assets/js/page--src-pages-australasia-australiageneral-vue.2523f219.js",
-    "assets/js/page--src-pages-australasia-vue.638f7aa0.js",
-    "assets/js/page--src-pages-blog-vue.1e5ba4fb.js",
-    "assets/js/page--src-pages-contact-vue.2fba06ef.js",
-    "assets/js/page--src-pages-europe-austriangeneral-vue.9433b10c.js",
-    "assets/js/page--src-pages-europe-belarusgeneral-vue.3f824719.js",
-    "assets/js/page--src-pages-europe-belgiumgeneral-vue.11378eea.js",
-    "assets/js/page--src-pages-europe-britishgeneral-vue.f415f78d.js",
-    "assets/js/page--src-pages-europe-frenchgeneral-vue.4387306b.js",
-    "assets/js/page--src-pages-europe-irelandgeneral-vue.1679ffa5.js",
-    "assets/js/page--src-pages-europe-netherlandsgeneral-vue.b131ee24.js",
-    "assets/js/page--src-pages-europe-russiangeneral-vue.cd65ba49.js",
-    "assets/js/page--src-pages-europe-ukrainegeneral-vue.0ca8107e.js",
-    "assets/js/page--src-pages-europe-vue.a35e985a.js",
-    "assets/js/page--src-pages-general-vue.70814322.js",
-    "assets/js/page--src-pages-index-vue.f2bacf4a.js",
-    "assets/js/page--src-pages-jewish-australia-vue.9563fc0d.js",
-    "assets/js/page--src-pages-jewish-austria-vue.b13dc153.js",
-    "assets/js/page--src-pages-jewish-belarus-vue.c6042141.js",
-    "assets/js/page--src-pages-jewish-british-vue.40a42cf7.js",
-    "assets/js/page--src-pages-jewish-ireland-vue.65ae5a30.js",
-    "assets/js/page--src-pages-jewish-netherlands-vue.753360e2.js",
-    "assets/js/page--src-pages-jewish-russia-vue.f8732e45.js",
-    "assets/js/page--src-pages-jewish-ukraine-vue.a9eae2cf.js",
-    "assets/js/page--src-templates-blog-entry-vue.f9a56364.js",
-    "assets/js/page--src-templates-category-vue.5326132d.js",
-    "assets/js/page--src-templates-tag-vue.98cc9bce.js"
+    "assets/js/page--src-pages-australasia-australiageneral-vue.c32eb33a.js",
+    "assets/js/page--src-pages-australasia-newzealandgeneral-vue.16ffa54c.js",
+    "assets/js/page--src-pages-australasia-vue.5c2454cc.js",
+    "assets/js/page--src-pages-blog-vue.768ec29f.js",
+    "assets/js/page--src-pages-contact-vue.5b83c70e.js",
+    "assets/js/page--src-pages-europe-austriangeneral-vue.b5c36769.js",
+    "assets/js/page--src-pages-europe-belarusgeneral-vue.982ecbba.js",
+    "assets/js/page--src-pages-europe-belgiumgeneral-vue.a9baccdb.js",
+    "assets/js/page--src-pages-europe-britishgeneral-vue.d0e75f6d.js",
+    "assets/js/page--src-pages-europe-frenchgeneral-vue.1fd2ce5d.js",
+    "assets/js/page--src-pages-europe-irelandgeneral-vue.3a5d435d.js",
+    "assets/js/page--src-pages-europe-netherlandsgeneral-vue.3c2b7c2e.js",
+    "assets/js/page--src-pages-europe-russiangeneral-vue.5b92cb72.js",
+    "assets/js/page--src-pages-europe-ukrainegeneral-vue.7eb2ba99.js",
+    "assets/js/page--src-pages-europe-vue.64cc26bc.js",
+    "assets/js/page--src-pages-general-vue.610d936f.js",
+    "assets/js/page--src-pages-index-vue.29131820.js",
+    "assets/js/page--src-pages-jewish-australia-vue.8aeb3f97.js",
+    "assets/js/page--src-pages-jewish-austria-vue.1891c397.js",
+    "assets/js/page--src-pages-jewish-belarus-vue.59ffd99e.js",
+    "assets/js/page--src-pages-jewish-british-vue.1c5f4dd1.js",
+    "assets/js/page--src-pages-jewish-ireland-vue.83bf32b5.js",
+    "assets/js/page--src-pages-jewish-netherlands-vue.be667332.js",
+    "assets/js/page--src-pages-jewish-newzealand-vue.20b488ab.js",
+    "assets/js/page--src-pages-jewish-russia-vue.b031f4c8.js",
+    "assets/js/page--src-pages-jewish-ukraine-vue.22dd9c90.js",
+    "assets/js/page--src-templates-blog-entry-vue.af37b9dd.js",
+    "assets/js/page--src-templates-category-vue.262309cf.js",
+    "assets/js/page--src-templates-tag-vue.f680f340.js"
   ],
   "initial": [
     "assets/css/0.styles.49f8cf40.css",
-    "assets/js/app.be407be1.js"
+    "assets/js/app.c4428fd5.js"
   ],
   "async": [
     "assets/js/page--node-modules-gridsome-app-pages-404-vue.710bef41.js",
     "assets/js/page--src-pages-about-vue.515ba867.js",
-    "assets/js/page--src-pages-australasia-australiageneral-vue.2523f219.js",
-    "assets/js/page--src-pages-australasia-vue.638f7aa0.js",
-    "assets/js/page--src-pages-blog-vue.1e5ba4fb.js",
-    "assets/js/page--src-pages-contact-vue.2fba06ef.js",
-    "assets/js/page--src-pages-europe-austriangeneral-vue.9433b10c.js",
-    "assets/js/page--src-pages-europe-belarusgeneral-vue.3f824719.js",
-    "assets/js/page--src-pages-europe-belgiumgeneral-vue.11378eea.js",
-    "assets/js/page--src-pages-europe-britishgeneral-vue.f415f78d.js",
-    "assets/js/page--src-pages-europe-frenchgeneral-vue.4387306b.js",
-    "assets/js/page--src-pages-europe-irelandgeneral-vue.1679ffa5.js",
-    "assets/js/page--src-pages-europe-netherlandsgeneral-vue.b131ee24.js",
-    "assets/js/page--src-pages-europe-russiangeneral-vue.cd65ba49.js",
-    "assets/js/page--src-pages-europe-ukrainegeneral-vue.0ca8107e.js",
-    "assets/js/page--src-pages-europe-vue.a35e985a.js",
-    "assets/js/page--src-pages-general-vue.70814322.js",
-    "assets/js/page--src-pages-index-vue.f2bacf4a.js",
-    "assets/js/page--src-pages-jewish-australia-vue.9563fc0d.js",
-    "assets/js/page--src-pages-jewish-austria-vue.b13dc153.js",
-    "assets/js/page--src-pages-jewish-belarus-vue.c6042141.js",
-    "assets/js/page--src-pages-jewish-british-vue.40a42cf7.js",
-    "assets/js/page--src-pages-jewish-ireland-vue.65ae5a30.js",
-    "assets/js/page--src-pages-jewish-netherlands-vue.753360e2.js",
-    "assets/js/page--src-pages-jewish-russia-vue.f8732e45.js",
-    "assets/js/page--src-pages-jewish-ukraine-vue.a9eae2cf.js",
-    "assets/js/page--src-templates-blog-entry-vue.f9a56364.js",
-    "assets/js/page--src-templates-category-vue.5326132d.js",
-    "assets/js/page--src-templates-tag-vue.98cc9bce.js"
+    "assets/js/page--src-pages-australasia-australiageneral-vue.c32eb33a.js",
+    "assets/js/page--src-pages-australasia-newzealandgeneral-vue.16ffa54c.js",
+    "assets/js/page--src-pages-australasia-vue.5c2454cc.js",
+    "assets/js/page--src-pages-blog-vue.768ec29f.js",
+    "assets/js/page--src-pages-contact-vue.5b83c70e.js",
+    "assets/js/page--src-pages-europe-austriangeneral-vue.b5c36769.js",
+    "assets/js/page--src-pages-europe-belarusgeneral-vue.982ecbba.js",
+    "assets/js/page--src-pages-europe-belgiumgeneral-vue.a9baccdb.js",
+    "assets/js/page--src-pages-europe-britishgeneral-vue.d0e75f6d.js",
+    "assets/js/page--src-pages-europe-frenchgeneral-vue.1fd2ce5d.js",
+    "assets/js/page--src-pages-europe-irelandgeneral-vue.3a5d435d.js",
+    "assets/js/page--src-pages-europe-netherlandsgeneral-vue.3c2b7c2e.js",
+    "assets/js/page--src-pages-europe-russiangeneral-vue.5b92cb72.js",
+    "assets/js/page--src-pages-europe-ukrainegeneral-vue.7eb2ba99.js",
+    "assets/js/page--src-pages-europe-vue.64cc26bc.js",
+    "assets/js/page--src-pages-general-vue.610d936f.js",
+    "assets/js/page--src-pages-index-vue.29131820.js",
+    "assets/js/page--src-pages-jewish-australia-vue.8aeb3f97.js",
+    "assets/js/page--src-pages-jewish-austria-vue.1891c397.js",
+    "assets/js/page--src-pages-jewish-belarus-vue.59ffd99e.js",
+    "assets/js/page--src-pages-jewish-british-vue.1c5f4dd1.js",
+    "assets/js/page--src-pages-jewish-ireland-vue.83bf32b5.js",
+    "assets/js/page--src-pages-jewish-netherlands-vue.be667332.js",
+    "assets/js/page--src-pages-jewish-newzealand-vue.20b488ab.js",
+    "assets/js/page--src-pages-jewish-russia-vue.b031f4c8.js",
+    "assets/js/page--src-pages-jewish-ukraine-vue.22dd9c90.js",
+    "assets/js/page--src-templates-blog-entry-vue.af37b9dd.js",
+    "assets/js/page--src-templates-category-vue.262309cf.js",
+    "assets/js/page--src-templates-tag-vue.f680f340.js"
   ],
   "modules": {
     "20303422": [
@@ -82,10 +86,10 @@
       1
     ],
     "60418391": [
-      14
+      15
     ],
     "61964137": [
-      13
+      14
     ],
     "63376476": [
       1
@@ -130,7 +134,7 @@
       1
     ],
     "df861968": [
-      15
+      16
     ],
     "02b08154": [
       1
@@ -166,40 +170,43 @@
       1
     ],
     "fde8ff5c": [
-      27
+      29
     ],
     "7dcb4e14": [
-      11
+      12
     ],
     "ebf11252": [
       1
     ],
     "4b75f656": [
-      22
+      23
     ],
     "63e5bf09": [
-      9
+      10
     ],
     "9271b3ec": [
       1
     ],
     "29739c8e": [
-      30
+      32
     ],
     "18e6b3c2": [
       1
     ],
     "601445be": [
-      10
+      11
+    ],
+    "59c2457c": [
+      5
     ],
     "ca3c0fdc": [
       1
     ],
     "7baac0fc": [
-      27
+      29
     ],
     "10c6222e": [
-      27
+      29
     ],
     "56ee087a": [
       1
@@ -217,10 +224,10 @@
       1
     ],
     "abd57a0c": [
-      23
+      24
     ],
     "07549f89": [
-      23
+      24
     ],
     "6337b1c0": [
       1
@@ -238,37 +245,37 @@
       1
     ],
     "3cdbd789": [
-      21
+      22
     ],
     "6f83d768": [
-      11
+      12
     ],
     "7a8b772e": [
-      15
+      16
     ],
     "97ae629a": [
-      18
-    ],
-    "a8738d1a": [
-      17
-    ],
-    "1143cda7": [
       19
     ],
+    "a8738d1a": [
+      18
+    ],
+    "1143cda7": [
+      20
+    ],
     "69ec3ff9": [
-      25
+      26
     ],
     "2100c6d6": [
       1
     ],
     "6ea0edb3": [
-      6
+      7
     ],
     "210d7936": [
       1
     ],
     "579aab9e": [
-      5
+      6
     ],
     "44eb6672": [
       1
@@ -279,20 +286,26 @@
     "20e26422": [
       1
     ],
-    "3781dc7b": [
+    "00643e4c": [
       27
     ],
+    "3781dc7b": [
+      29
+    ],
+    "79284d04": [
+      5
+    ],
     "43be961a": [
-      11
+      12
     ],
     "22a1a03b": [
-      8
+      9
     ],
     "57f8b126": [
-      8
+      9
     ],
     "12d6b865": [
-      12
+      13
     ],
     "1eb51b12": [
       1
@@ -304,16 +317,19 @@
       1
     ],
     "8b6375ae": [
-      23
+      24
     ],
     "2b09576a": [
-      18
+      19
     ],
     "2698a1f3": [
       1
     ],
     "1e5db803": [
       1
+    ],
+    "6ded504a": [
+      5
     ],
     "e92fab18": [
       1
@@ -322,10 +338,10 @@
       1
     ],
     "3f18ab32": [
-      25
+      26
     ],
     "4c84f6fd": [
-      16
+      17
     ],
     "510c689b": [
       1
@@ -337,7 +353,7 @@
       1
     ],
     "56bb7b87": [
-      18
+      19
     ],
     "5a8dc96e": [
       1
@@ -379,19 +395,19 @@
       1
     ],
     "270e8c7f": [
-      11
+      12
     ],
     "26c9d0b7": [
       1
     ],
     "059e8f58": [
-      23
+      24
     ],
     "dce688f8": [
       1
     ],
     "45a056d5": [
-      11
+      12
     ],
     "3afd0ecb": [
       1
@@ -402,11 +418,14 @@
     "287625a9": [
       1
     ],
+    "306a9c0b": [
+      5
+    ],
     "362f1f7a": [
-      21
+      22
     ],
     "3c89cbe4": [
-      4
+      5
     ],
     "5f149b94": [
       1
@@ -424,10 +443,10 @@
       1
     ],
     "a704fbf2": [
-      27
+      29
     ],
     "64d169c4": [
-      27
+      29
     ],
     "d0b94888": [
       1
@@ -438,6 +457,9 @@
     "c027cc9a": [
       1
     ],
+    "3395eef2": [
+      5
+    ],
     "55ebe916": [
       1
     ],
@@ -445,7 +467,7 @@
       1
     ],
     "171fe46d": [
-      18
+      19
     ],
     "27ab0256": [
       1
@@ -463,13 +485,13 @@
       1
     ],
     "41e34158": [
-      13
+      14
     ],
     "091e2198": [
       1
     ],
     "1f81b7b0": [
-      27
+      29
     ],
     "cee2585a": [
       1
@@ -478,7 +500,7 @@
       1
     ],
     "1f19aa38": [
-      28
+      30
     ],
     "e3b0ceca": [
       1
@@ -493,7 +515,7 @@
       1
     ],
     "2b2a7d40": [
-      27
+      29
     ],
     "6eb25a29": [
       1
@@ -502,7 +524,7 @@
       1
     ],
     "1d50cc18": [
-      11
+      12
     ],
     "b0483844": [
       1
@@ -517,7 +539,7 @@
       1
     ],
     "366a8194": [
-      15
+      16
     ],
     "8c05706a": [
       1
@@ -532,25 +554,25 @@
       1
     ],
     "d37d8cc0": [
-      11
+      12
     ],
     "b7b71492": [
       1
     ],
     "72694c72": [
-      10
+      11
     ],
     "73dd7d44": [
       2
     ],
     "46079f46": [
-      16
+      17
     ],
     "1f7c729d": [
-      25
+      26
     ],
     "da39f5d2": [
-      20
+      21
     ],
     "3ab77fe8": [
       1
@@ -559,22 +581,22 @@
       1
     ],
     "d5891c0c": [
-      13
+      14
     ],
     "0b48bd28": [
       1
     ],
     "60a50f9e": [
-      11
+      12
     ],
     "13393b2d": [
-      18
+      19
     ],
     "8e0532c2": [
       1
     ],
     "f14397a8": [
-      21
+      22
     ],
     "7a94b4f8": [
       1
@@ -595,10 +617,7 @@
       1
     ],
     "19fe7af6": [
-      11
-    ],
-    "000c9eb4": [
-      5
+      12
     ],
     "2f41aded": [
       1
@@ -622,13 +641,13 @@
       1
     ],
     "76cc5e7d": [
-      11
+      12
     ],
     "1ae0171f": [
       1
     ],
     "8ed04732": [
-      18
+      19
     ],
     "0ecf9419": [
       1
@@ -640,22 +659,22 @@
       1
     ],
     "047bf5de": [
-      19
+      20
     ],
     "47cc0455": [
       1
     ],
     "576bf6ec": [
-      22
+      23
     ],
     "4735d715": [
-      18
+      19
     ],
     "3ce40f76": [
-      18
+      19
     ],
     "5f99d076": [
-      11
+      12
     ],
     "9f97d65e": [
       1
@@ -670,16 +689,16 @@
       1
     ],
     "298e45ef": [
-      22
+      23
     ],
     "a5df93ca": [
-      17
+      18
     ],
     "6276ed76": [
       1
     ],
     "8fa22bd6": [
-      22
+      23
     ],
     "bd5a543a": [
       4
@@ -697,25 +716,25 @@
       1
     ],
     "2945d705": [
-      18
+      19
     ],
     "4b8fba9c": [
       1
     ],
     "75b872ba": [
-      29
+      31
     ],
     "0e369055": [
       1
     ],
     "46dcd16b": [
-      11
+      12
     ],
     "692918eb": [
-      15
+      16
     ],
     "640bec88": [
-      21
+      22
     ],
     "2fd21c51": [
       1
@@ -736,7 +755,7 @@
       1
     ],
     "5908381e": [
-      11
+      12
     ],
     "20b20e5b": [
       1
@@ -754,13 +773,16 @@
       1
     ],
     "63d084b4": [
-      26
+      28
     ],
     "0a67ebae": [
       1
     ],
     "30a62f16": [
-      18
+      19
+    ],
+    "580dced6": [
+      5
     ],
     "71a2da58": [
       1
@@ -769,7 +791,7 @@
       1
     ],
     "7c48901e": [
-      24
+      25
     ],
     "030b1e90": [
       1
@@ -784,13 +806,13 @@
       1
     ],
     "f2b4c8c2": [
-      7
+      8
     ],
     "9def5850": [
       1
     ],
     "60f64423": [
-      23
+      24
     ],
     "09755d04": [
       1
@@ -817,7 +839,7 @@
       1
     ],
     "3d0cd372": [
-      18
+      19
     ],
     "c4eeb238": [
       1
