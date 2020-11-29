@@ -12,6 +12,7 @@
 
       <div class="grid sm:flex">
           <jewishgen />
+          <historical />
         
       </div>
 
@@ -43,6 +44,7 @@
 
 <script>
 import jewishgen from "@/components/Australasia/Jewish/jewishgen";
+import historical from "@/components/Australasia/Jewish/historical";
 
 import dropdown from "@/components/Dropdown/dropdown";
 
@@ -61,6 +63,7 @@ export default {
   },
   components: {
     jewishgen,
+    historical,
 
     dropdown,
    

@@ -14,6 +14,7 @@
 
       <div class="grid sm:flex">
         <statearchives />
+        <mogilev />
 
         <br />
       </div>
@@ -44,6 +45,8 @@
 
 <script>
 import statearchives from "@/components/Belarus/General/statearchives";
+import mogilev from "@/components/Belarus/General/mogilev";
+
 import dropdown from "@/components/Dropdown/dropdown";
 
 export default {
@@ -58,6 +61,7 @@ export default {
   },
   components: {
     statearchives,
+    mogilev,
     dropdown,
   },
 };

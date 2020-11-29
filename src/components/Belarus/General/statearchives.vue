@@ -15,7 +15,7 @@
 
       <g-link
           class  = "text-white hover:text-yellow-500"
-          to     = "https://bit.ly/2JkxwRR">
+          to     = "https://bit.ly/3fMLiZD">
           More Info
         </g-link>
 

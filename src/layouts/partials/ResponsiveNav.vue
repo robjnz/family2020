@@ -13,7 +13,7 @@
         >
           <g-link
             :to="element.link"
-            class="link block py-2 px-5 text-white text-3xl hover:text-pink-500"
+            class="link block py-2 px-5 text-white text-2xl hover:text-pink-500"
             active-class="is-active-link"
             exact-active-class="active text-pink-500"
           >{{ element.name }}</g-link>

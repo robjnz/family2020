@@ -17,12 +17,16 @@
       "link": "/blog"
     },
     {
-      "name": "Contact",
-      "link": "/contact"
-    },
-    {
       "name": "Europe",
       "link": "/europe"
+    },
+    {
+      "name": "Shoah",
+      "link": "/shoah"
+    },
+    {
+      "name": "Contact",
+      "link": "/contact"
     }
     
   ]

@@ -17,6 +17,11 @@
         <geneanet />
       </div>
 
+       <div class="grid sm:flex">
+        <heritage />
+      </div>
+    
+
       <br />
       <div class="border-b-4 border-gray-200"></div>
       <br />
@@ -94,7 +99,8 @@ import print from "@/components/Russia/General/print";
 import ahnenblatt from "@/components/General/ahnenblatt";
 import shtetl from "@/components/General/shtetl";
 import transkribus from "@/components/General/transkribus";
- 
+import heritage from "@/components/General/heritage";
+
 import dropdown from "@/components/Dropdown/dropdown";
 
 export default {
@@ -125,6 +131,7 @@ export default {
     ahnenblatt,
     shtetl,
     transkribus,
+    heritage,
     dropdown,
   },
 };

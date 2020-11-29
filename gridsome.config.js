@@ -15,6 +15,14 @@ module.exports = {
       }
     },
     {
+      use: 'gridsome-plugin-gtm',
+      options: {
+        id: 'GTM-PJS56TL',
+        enabled: true,
+        debug: true
+      }
+    },
+    {
       use: 'gridsome-source-static-meta',
       options: {
         path: 'settings/*.json'
