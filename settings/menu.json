@@ -13,16 +13,20 @@
       "link": "/australasia"
     },
     {
-      "name": "Blog",
-      "link": "/blog"
-    },
-    {
       "name": "Europe",
       "link": "/europe"
     },
     {
+      "name": "North America",
+      "link": "/northamerica"
+    },
+    {
       "name": "Shoah",
       "link": "/shoah"
+    },
+    {
+      "name": "Blog",
+      "link": "/blog"
     },
     {
       "name": "Contact",

@@ -9,6 +9,7 @@
         <australasia />
         <europe />
         <jewish />
+        <northamerica />
         
       </p>
   </div>
@@ -19,6 +20,7 @@
 import jewish from "@/components/Dropdown/jewish";
 import australasia from "@/components/Dropdown/australasia";
 import europe from "@/components/Dropdown/europe";
+import northamerica from "@/components/Dropdown/northamerica";
 
 export default {
 
@@ -28,6 +30,7 @@ export default {
     jewish,
     australasia,
     europe,
+    northamerica,
  }
     
   }
