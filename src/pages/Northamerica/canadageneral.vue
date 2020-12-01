@@ -11,9 +11,7 @@
       </h1>
 
       <div class="grid sm:flex">
-          <genealogysa />
-        <south />
-        <statearchives />
+        <state />
       </div>
 
       <br />
@@ -41,14 +39,11 @@
 </template>
 
 <script>
-import south from "@/components/Australasia/General/south";
-import statearchives from "@/components/Australasia/General/statearchives";
-import genealogysa from "@/components/Australasia/General/genealogysa";
+import state from "@/components/Canada/General/state";
+
 
 import dropdown from "@/components/Dropdown/dropdown";
-import jewish from "@/components/Dropdown/jewish";
-import australasia from "@/components/Dropdown/australasia";
-import europe from "@/components/Dropdown/europe";
+
 
 
 export default {
@@ -63,14 +58,12 @@ export default {
     ],
   },
   components: {
-    south,
-    statearchives,
-    genealogysa,
+    
+    state,
+    
 
     dropdown,
-    jewish,
-    australasia,
-    europe,
+  
     
   },
 };

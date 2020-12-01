@@ -3,7 +3,7 @@
     <section id="container-centre" class="column centre flex-1">
       <h1 class="page-title">Welcome to Family History</h1>
       <div class="content">
-        <p >What records are available, and where to find them.</p>
+        <p >Information on what records are available, and where to find them.</p>
        
         <div class="grid sm:flex">
        
